@@ -1,0 +1,9 @@
+git init
+revisa el arbol de cambios
+git status
+le dice a git controlar archivos
+git add archivo 
+
+git add .     "para agarrar todos los archivos"
+
+cd . para entrar en la carpeta
